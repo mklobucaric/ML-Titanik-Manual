@@ -1,4 +1,4 @@
-# Titanic Machine Learning Project
+# Titanic Machine Learning Project - Kaggle Notebook
 
 Ready to dive into a classic machine learning challenge? This project guides you through predicting passenger survival on the Titanic using a structured, best-practices approach.
 
