@@ -7,11 +7,11 @@
 **Technical Highlights:** Utilizes Python, Pandas, and Scikit-learn to dissect and manipulate the dataset, ensuring a thorough understanding and application of machine learning concepts. Integration of visualization tools and ensemble methods enhances model performance and insight extraction.
 
 **Key Features:**
-* **Detailed dataset analysis and visualization to uncover patterns and relationships.
-* **Strategic data cleaning and preprocessing for optimal model input.
-* **Application of machine learning pipelines for streamlined model evaluation and tuning.
-* **Advanced model optimization through RandomSearchCV, GridSearchCV and BayesSearchCV complemented by ensemble techniques for superior accuracy.
-* **Comprehensive evaluation metrics for robust model assessment.
+* Detailed dataset analysis and visualization to uncover patterns and relationships.
+* Strategic data cleaning and preprocessing for optimal model input.
+* Application of machine learning pipelines for streamlined model evaluation and tuning.
+* Advanced model optimization through RandomSearchCV, GridSearchCV and BayesSearchCV complemented by ensemble techniques for superior accuracy.
+* Comprehensive evaluation metrics for robust model assessment.
 
 **Technology Stack:** Showcases proficiency in Python for data science, with extensive use of pandas for data manipulation, matplotlib and seaborn for visualization, and scikit-learn for modeling. Demonstrates the power of machine learning pipelines and the strategic application of statistical principles to real-world datasets.
 
